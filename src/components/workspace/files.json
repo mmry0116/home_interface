@@ -1,0 +1,282 @@
+[
+  {
+    "creationTime": "2020-03-29 20:27:35",
+    "lastAccessTime": "2023-04-19 10:35:59",
+    "lastModifiedTime": "2024-04-09 18:27:30",
+    "name": "$RECYCLE.BIN",
+    "path": "G:/",
+    "size": "0B",
+    "sortPriority": 1,
+    "type": "hide_directory"
+  },
+  {
+    "creationTime": "2021-07-16 19:09:41",
+    "lastAccessTime": "2021-07-17 15:04:29",
+    "lastModifiedTime": "2024-04-09 18:27:30",
+    "name": "AliWorkbenchData",
+    "path": "G:/",
+    "size": "0B",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2021-01-01 18:22:04",
+    "lastAccessTime": "2021-01-01 18:22:58",
+    "lastModifiedTime": "2024-04-09 18:27:30",
+    "name": "cache",
+    "path": "G:/",
+    "size": "0B",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2023-08-13 11:20:24",
+    "lastAccessTime": "2023-08-13 11:20:24",
+    "lastModifiedTime": "2024-04-09 18:27:30",
+    "name": "com",
+    "path": "G:/",
+    "size": "0B",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2020-05-18 13:01:26",
+    "lastAccessTime": "2022-10-19 19:30:11",
+    "lastModifiedTime": "2024-04-09 18:27:30",
+    "name": "Compressed",
+    "path": "G:/",
+    "size": "0B",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2020-03-29 20:53:23",
+    "lastAccessTime": "2021-02-23 11:03:24",
+    "lastModifiedTime": "2024-04-09 18:27:30",
+    "name": "Decompression",
+    "path": "G:/",
+    "size": "0B",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2020-05-07 11:42:06",
+    "lastAccessTime": "2023-12-01 10:54:27",
+    "lastModifiedTime": "2024-04-09 18:27:30",
+    "name": "DOCUMENT",
+    "path": "G:/",
+    "size": "4.00KB",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2020-03-29 20:45:58",
+    "lastAccessTime": "2024-03-20 13:23:35",
+    "lastModifiedTime": "2024-04-09 18:27:31",
+    "name": "Download",
+    "path": "G:/",
+    "size": "4.00KB",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2022-11-28 08:53:57",
+    "lastAccessTime": "2023-01-17 13:00:11",
+    "lastModifiedTime": "2024-04-09 18:27:30",
+    "name": "ff",
+    "path": "G:/",
+    "size": "4.00KB",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2020-05-07 11:52:06",
+    "lastAccessTime": "2023-08-20 10:06:06",
+    "lastModifiedTime": "2024-04-09 18:27:30",
+    "name": "FILE",
+    "path": "G:/",
+    "size": "0B",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2022-10-06 09:07:18",
+    "lastAccessTime": "2023-05-06 13:37:26",
+    "lastModifiedTime": "2024-04-10 09:55:05",
+    "name": "HMG IDEA",
+    "path": "G:/",
+    "size": "4.00KB",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2023-07-18 12:35:53",
+    "lastAccessTime": "2023-07-18 12:35:53",
+    "lastModifiedTime": "2024-04-09 18:27:30",
+    "name": "home",
+    "path": "G:/",
+    "size": "0B",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2023-09-29 12:37:00",
+    "lastAccessTime": "2023-09-29 13:05:46",
+    "lastModifiedTime": "2024-04-09 18:27:30",
+    "name": "mm",
+    "path": "G:/",
+    "size": "0B",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2022-12-19 18:00:38",
+    "lastAccessTime": "2024-01-26 13:16:34",
+    "lastModifiedTime": "2024-04-10 09:22:25",
+    "name": "Moe",
+    "path": "G:/",
+    "size": "0B",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2020-05-18 13:02:11",
+    "lastAccessTime": "2021-10-04 16:55:29",
+    "lastModifiedTime": "2024-04-09 18:27:30",
+    "name": "Programs",
+    "path": "G:/",
+    "size": "8.00KB",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2023-02-06 15:47:51",
+    "lastAccessTime": "2023-02-07 09:53:18",
+    "lastModifiedTime": "2024-04-09 18:27:30",
+    "name": "snipaste",
+    "path": "G:/",
+    "size": "4.00KB",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2022-09-05 09:54:46",
+    "lastAccessTime": "2023-01-23 18:03:15",
+    "lastModifiedTime": "2024-04-09 18:27:30",
+    "name": "Sublime Text3",
+    "path": "G:/",
+    "size": "4.00KB",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2020-03-29 20:01:09",
+    "lastAccessTime": "2020-04-08 10:05:04",
+    "lastModifiedTime": "2024-04-10 09:25:35",
+    "name": "System Volume Information",
+    "path": "G:/",
+    "size": "4.00KB",
+    "sortPriority": 1,
+    "type": "hide_directory"
+  },
+  {
+    "creationTime": "2023-10-07 12:44:56",
+    "lastAccessTime": "2024-01-25 15:25:08",
+    "lastModifiedTime": "2024-04-09 18:27:30",
+    "name": "tempZipPack",
+    "path": "G:/",
+    "size": "0B",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2020-05-07 11:28:38",
+    "lastAccessTime": "2024-04-05 15:53:24",
+    "lastModifiedTime": "2024-04-10 09:22:25",
+    "name": "TIM",
+    "path": "G:/",
+    "size": "4.00KB",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2024-03-07 16:32:54",
+    "lastAccessTime": "2024-04-09 17:41:08",
+    "lastModifiedTime": "2024-04-10 09:25:36",
+    "name": "xx",
+    "path": "G:/",
+    "size": "4.00KB",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2023-09-03 16:15:15",
+    "lastAccessTime": "2024-04-07 18:57:33",
+    "lastModifiedTime": "2024-04-09 18:27:30",
+    "name": "琦琦子-7V",
+    "path": "G:/",
+    "size": "0B",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2024-02-22 14:58:15",
+    "lastAccessTime": "2024-04-09 18:27:33",
+    "lastModifiedTime": "2024-04-09 18:28:31",
+    "name": "琦琦子-7V2",
+    "path": "G:/",
+    "size": "0B",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2024-03-07 15:32:44",
+    "lastAccessTime": "2024-03-07 16:18:45",
+    "lastModifiedTime": "2024-04-09 18:27:30",
+    "name": "琦琦子-7V3",
+    "path": "G:/",
+    "size": "4.00KB",
+    "sortPriority": 1,
+    "type": "directory"
+  },
+  {
+    "creationTime": "2020-05-19 16:59:15",
+    "lastAccessTime": "2020-05-19 16:59:35",
+    "lastModifiedTime": "2024-04-10 09:04:50",
+    "name": "autorun.inf",
+    "path": "G:/",
+    "size": "391.00B",
+    "sortPriority": 2,
+    "type": "hide_file"
+  },
+  {
+    "creationTime": "2022-11-30 10:18:01",
+    "lastAccessTime": "2022-11-30 10:18:01",
+    "lastModifiedTime": "2024-04-06 19:00:48",
+    "name": "漂洋过海来看你.mp3",
+    "path": "G:/",
+    "size": "2.85MB",
+    "sortPriority": 2,
+    "type": "file"
+  },
+  {
+    "creationTime": "2023-09-09 19:01:33",
+    "lastAccessTime": "2021-10-24 16:51:54",
+    "lastModifiedTime": "2024-04-06 19:00:58",
+    "name": "第七特区.txt",
+    "path": "G:/",
+    "size": "18.65MB",
+    "sortPriority": 2,
+    "type": "file"
+  },
+  {
+    "creationTime": "2023-09-09 18:57:36",
+    "lastAccessTime": "2023-09-09 03:24:06",
+    "lastModifiedTime": "2024-02-17 11:40:33",
+    "name": "踏星.txt",
+    "path": "G:/",
+    "size": "43.45MB",
+    "sortPriority": 2,
+    "type": "file"
+  }
+]
